@@ -14,12 +14,16 @@ I enjoy transforming complex ideas into clean, structured, and efficient digital
 ## Tech Stack🧩
 
 ### Frontend
+- React.js
+- Angular
 - HTML
 - CSS
 - JavaScript
 - Flutter
 
 ### Backend and Programming
+- Spring boot
+- API rest
 - PHP
 - Python
 - Flask
@@ -34,10 +38,14 @@ I enjoy transforming complex ideas into clean, structured, and efficient digital
 - MySQL
 - Oracle
 - MongoDB
+- Cassandra
 - Neo4j
 - Relational and NoSQL systems
 
 ### Data and AI
+- RAG
+- Ollama
+- Qwen3
 - Pandas
 - Matplotlib
 - Data analysis beginner
